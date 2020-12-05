@@ -1,0 +1,4 @@
+pandas==1.0.5
+numpy==1.18.5
+sklearn==0.23.1
+watermark==2.1.0
